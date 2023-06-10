@@ -172,7 +172,7 @@ footer {
 /* ======================MEDIA QUERY====================== */
 
 /* small phone,tablets,large smart phone */
-@media (max-width: 728px) {
+@media (max-width: 600px) {
   .condition {
     flex-direction: column;
   }
